@@ -1,8 +1,8 @@
-# 🎈 Blank app template
+# 🎈 Timelytics: Order-to-Delivery Time Prediction
 
-A simple Streamlit app template for you to modify!
+A simple Streamlit app for predicting the expected delivery time!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://new-app-3us9pxoneo8.streamlit.app/)
 
 ### How to run it on your own machine
 
